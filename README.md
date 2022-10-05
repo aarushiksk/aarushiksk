@@ -1,4 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/92772439/194028203-81bfc30c-fb50-4c16-badb-264256598af8.gif)
+<img src="https://user-images.githubusercontent.com/92772439/194028203-81bfc30c-fb50-4c16-badb-264256598af8.gif" height=500 width=3000/>
 
 <h2><center>✨Hey there fellow Techie! My name is Aarushi✨</center></h2>
 <br>
