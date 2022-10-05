@@ -19,7 +19,7 @@
 <br>
 <br>
 ⚡ Fun fact: I like to crack jokes.
-<br.
+<br>
 <br>
 <br>
 <h2><italic>Skills</italic></h2>
