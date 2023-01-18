@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/92772439/194028203-81bfc30c-fb50-4c16-badb-264256598af8.gif" height=500 width=3000/>
-
-<h2><center>✨Hey there fellow Techie! My name is Aarushi✨</center></h2>
+![pixel-art-room](https://user-images.githubusercontent.com/92772439/213060212-926b71b0-489e-4246-960e-8a262a62208c.gif)
+<br></br>
+<h2><center>✨Hey there fellow Techie! My name is Aarushi, an ML enthusiast from India✨</center></h2>
 <br>
 <h3>2nd Year Computer Science Student🎓👩🏾‍🎓</h3>
 <h3>🌏Lucknow:India</h3>
