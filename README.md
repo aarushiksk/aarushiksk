@@ -6,8 +6,7 @@
 <h3>🌏Lucknow:India</h3>
 <br>                                           
 <img src="https://user-images.githubusercontent.com/92772439/194034977-5211d858-9b01-48d1-9f34-3d010f42ea1b.gif" align="right" width=350 height=250/>
-<br></br>
-Profile hits: [![HitCount](https://hits.dwyl.com/aarushiksk/aarushiksk.svg?style=flat-square)](http://hits.dwyl.com/aarushiksk/aarushiksk)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat" alt="aarushiksk" /> </p>
 <br></br>
  🌱 I’m currently learning ML 
 <br>                                                                                                    
