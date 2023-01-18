@@ -5,16 +5,15 @@
 <h3>2nd Year Computer Science Student🎓👩🏾‍🎓</h3>
 <h3>🌏Lucknow:India</h3>
 <br>                                           
-<img src="https://user-images.githubusercontent.com/92772439/194034977-5211d858-9b01-48d1-9f34-3d010f42ea1b.gif" align="right" width=350 height=250/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat" alt="aarushiksk" /> </p>
 <br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarushiksk&show_icons=true&locale=en" alt="aarushiksk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="aarushiksk" /></p>
 <br></br>
  🌱 I’m currently learning ML 
 <br>                                                                                                    
  👯 I’m looking to collaborate on beginner open source projects.
 <br>
-<br>
+<img src="https://user-images.githubusercontent.com/92772439/194034977-5211d858-9b01-48d1-9f34-3d010f42ea1b.gif" align="right" width=350 height=250/>
 📫 How to reach me: www.linkedin.com/in/aarushi-sharma-1b24211a9
 <br>
 <br>
