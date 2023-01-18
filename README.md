@@ -7,7 +7,7 @@
 <br>                                           
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat" alt="aarushiksk" /> </p>
 <br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="aarushiksk" /></p>
+<p align="center"><img src="[Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushiksk&show_icons=true&theme=synthwave)"/></p>
 <br></br>
  🌱 I’m currently learning ML 
 <br>                                                                                                    
