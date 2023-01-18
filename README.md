@@ -1,4 +1,4 @@
-![pixel-art-room](https://user-images.githubusercontent.com/92772439/213060212-926b71b0-489e-4246-960e-8a262a62208c.gif)
+<img src="https://user-images.githubusercontent.com/92772439/213060212-926b71b0-489e-4246-960e-8a262a62208c.gif" width=900 height=500/>
 <br></br>
 <h3><center>✨Hey there fellow Techie! Welcome to my GitHub✨</center></h3>
 <br>
