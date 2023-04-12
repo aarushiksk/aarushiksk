@@ -1,14 +1,24 @@
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif"/>
 <br></br>
-<h1><center>✨Hey there fellow Techie! This is Aarushi, a tech geek from India✨</center></h1>
+<div style="display:flex; justify-content: center;">
+  <div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=My+name+is+Aarushi.+;++A+tech+enthusiast+and+an+aspiring+Data+Scientist+from+India" alt="Typing SVG" />
+    </a>
+  </div>
+</div>
 <br>
-<h3>2nd Year Computer Science Student🎓👩🏾‍🎓</h3>
-<h3>🌏Lucknow:India</h3>
-<br>                                           
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat" alt="aarushiksk" /> </p>
-<br></br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" alt=aarushiksk"/></p>
-<br></br>
+                                         
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushiksk&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" align="right"  alt="aarushiksk's GitHub stats"/>
+  </div>
+ 
+</div>
+
  🌱 I’m currently learning ML 
 <br> 
 <img src="https://user-images.githubusercontent.com/92772439/194034977-5211d858-9b01-48d1-9f34-3d010f42ea1b.gif" align="right" width=350 height=250/>
