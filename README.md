@@ -10,6 +10,7 @@
 <br>
 <h1 align="center">✨About me✨</h1>
 <p align="center">I am a 2nd year CS student with a knack for open source, always eager to learn about new technology trends, with a dedication to learn and enhance my skills. Presently, I am seeking to contribute in beginner open source ML projects to showcase my ML skills.  </p>
+<br></br>
 <h1 align="center">✨My Skills✨</h1>
 
 <table width="320px">
@@ -67,7 +68,7 @@
   </tbody>
 </table> 
 
-
+<br></br>
 
 <h1 align="center">✨Some Github Stats✨</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
