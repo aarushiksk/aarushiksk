@@ -72,7 +72,7 @@
 
 <h1 align="center">✨Some Github Stats✨</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand" height="400px" width="500px"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=aarushiksk&theme=dark"></p>
 <br>
 <div style="display: flex; justify-content: space-between;">
   <div>
