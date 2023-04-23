@@ -72,7 +72,7 @@
 
 <h1 align="center">✨Some Github Stats✨</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=aarushiksk&theme=dark"></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=aarushiksk&theme=dark" ></p>
 <br>
 <div style="display: flex; justify-content: space-between;">
   <div>
@@ -80,8 +80,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" align="right"  alt="aarushiksk's GitHub stats"/>
   </div>
 </div>
+
 <br></br>
 <img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right">
+<br></br>
 <h3 align="center">✨Connect with me✨<h3>
 <p>
   <h4> Fun Fact 😂: I like to crack jokes ;)</h4>
