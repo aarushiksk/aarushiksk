@@ -81,11 +81,23 @@
   </div>
 </div>
 <br></br>
-<img src="https://camo.githubusercontent.com/202446cb61bbce41008afe8301a89ae9b3fc0e2ae899fb47340c2ff591330dd0/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966" align="right" width="400px" height="250px"/>
+<img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right">
 <h3 align="center">✨Connect with me✨<h3>
 <p>
-  <a href="https://www.linkedin.com/in/aarushi-sharma-1b24211a9/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" width="25px" height="25px" alt="linkedin">
-  </a> &nbsp;
+  <h4> Fun Fact 😂: I like to crack jokes ;)</h4>
+
+  <a href="https://www.linkedin.com/in/aarushi-sharma-1b24211a9/" rel="nofollow noreferrer">LinkedIn: 
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" height="25px" alt="linkedin">
+  </a> 
+  <br></br>
+  <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGsmDmnhwVpfJVdbBtMJrZQLHQb?compose=new" rel="nofollow noreferrer"> Gmail: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="25px" height="25px" alt="gmail">
+  </a> 
+  <br></br>
+ <a href="https://medium.com/@aarushiksk" rel="nofollow noreferrer"> Blog Website :
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medium_icon.svg/1280px-Medium_icon.svg.png" width=25px, height=25px alt="medium">
+ </a>
   </p>
+  
+  
 
