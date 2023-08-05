@@ -87,7 +87,7 @@
 <br></br>
 <h3 align="center">✨Connect with me✨<h3>
 <p>
-  <h4> Fun Fact 😂: I like to crack jokes ;)</h4>
+  
 
   <a href="https://www.linkedin.com/in/aarushi-sharma-1b24211a9/" rel="nofollow noreferrer">LinkedIn: 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" height="25px" alt="linkedin">
