@@ -83,9 +83,10 @@
 
 <br></br>
 <br></br>
-<img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right">
+<h4 align="center">✨Connect with me✨<h3>
+<img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right" width="190" height="200">
 <br></br>
-<h3 align="center">✨Connect with me✨<h3>
+
 <p>
   
 
