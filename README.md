@@ -9,7 +9,7 @@
 </div>
 <br>
 <h1 align="center">✨About me✨</h1>
-<p align="center">I am a 2nd year CS student with a knack for open source, always eager to learn about new technology trends, with a dedication to learn and enhance my skills. Presently, I am seeking to contribute in beginner open source ML projects to showcase my ML skills.  </p>
+<p align="center">I am a 3rd year CS student with a knack for open source, always eager to learn about new technology trends, with a dedication to learn and enhance my skills. Presently, I am seeking to contribute in beginner open source ML projects to showcase my ML skills.  </p>
 <br></br>
 <h1 align="center">✨My Skills✨</h1>
 
@@ -22,14 +22,14 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarushiksk&theme=algolia" ></p>
 <br>
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarushiksk&theme=algolia" alt="Top Languages" height="200px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" align="right"  alt="aarushiksk's GitHub stats"/>
-  </div>
-</div>
-<div class="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushiksk&theme=algolia" align="center" alt="Aarushi's GitHub Contribution"/>
+<div style="display: flex; justify-content: center;">
+    <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarushiksk&theme=algolia" alt="Top Languages" height="200px"/>
+  </div></p>
+<div style="justify-content: center;">
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" alt="aarushiksk's GitHub stats"/>
+</div></p>
+<div style="justify-content: center;">
+ <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushiksk&theme=algolia" align="center" alt="Aarushi's GitHub Contribution"/>
 </div>
 
 
