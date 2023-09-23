@@ -13,95 +13,35 @@
 <br></br>
 <h1 align="center">✨My Skills✨</h1>
 
-<table width="320px">
-  <tbody>
-    <tr>
-      <td width="40px" align="center">
-        <span><strong>Python</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>Numpy</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>Java</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>VS Code</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>Figma</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>git</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>GitHub</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>Canva</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>C</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30px"></img>
-      </td>
-      <td width="40px" align="center">
-        <span><strong>Tensorflow</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></img>
-      </td>
-      <td width="60px" align="center">
-        <span><strong>Tailwind CSS</strong></span><br>
-        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></img>
-      </td>
-       <td width="60px" align="center">
-        <span><strong></strong></span><br>
-        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></img>
-      </td>
-   </tr>
-  </tbody>
-</table> 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 <br></br>
 
-<h1 align="center">✨Some Github Stats✨</h1>
+<h1 align="center">✨Github Stats✨</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=aarushiksk&theme=dark" ></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarushiksk&theme=algolia" ></p>
 <br>
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushiksk&theme=tokyonight" alt="Top Languages" height="300px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarushiksk&theme=algolia" alt="Top Languages" height="200px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aarushiksk&theme=synthwave" align="right"  alt="aarushiksk's GitHub stats"/>
   </div>
 </div>
+<div class="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushiksk&theme=algolia" align="center" alt="Aarushi's GitHub Contribution"/>
+</div>
+
 
 <br></br>
 <br></br>
-<h4 align="center">✨Connect with me✨<h3>
+## 🌐 Socials:
 <img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right" width="190" height="200">
 <br></br>
 
-<p>
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aarushi-1b24211a9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aarushiksk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aarushiksk) 
 
-  <a href="https://www.linkedin.com/in/aarushi-sharma-1b24211a9/" rel="nofollow noreferrer">LinkedIn: 
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" height="25px" alt="linkedin">
-  </a> 
-  <br></br>
-  <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGsmDmnhwVpfJVdbBtMJrZQLHQb?compose=new" rel="nofollow noreferrer"> Gmail: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="25px" height="25px" alt="gmail">
-  </a> 
-  <br></br>
- <a href="https://medium.com/@aarushiksk" rel="nofollow noreferrer"> Blog Website :
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medium_icon.svg/1280px-Medium_icon.svg.png" width=25px, height=25px alt="medium">
- </a>
-  </p>
   
   
 
