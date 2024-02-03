@@ -3,8 +3,9 @@
 <div style="display:flex; justify-content: center;">
   <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hey+there!+My+name+is+Aarushi.+;++I+ am+a+tech+enthusiast+and+an+aspiring+Data+Scientist+from+India" alt="Typing SVG" />         
+      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hey+there!+My+name+is+Aarushi.+;++I+ am+a+tech+enthusiast+and+an+aspiring+Data+Scientist+from+India" alt="Typing SVG" />     
     </a>
+    
   </div>
 </div>
 <br>
@@ -17,7 +18,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 <br></br>
+<h1 align="center">🏅Badges</h1>
 
+[![Alt text](https://holopin.me/susiesunflower)](https://holopin.io/@susiesunflower)
+<br>
 <h1 align="center">✨Github Stats✨</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aarushiksk&label=Profile%20views&color=0e75b6&style=flat"  alt="aarushiksk" /></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarushiksk&theme=algolia" ></p>
