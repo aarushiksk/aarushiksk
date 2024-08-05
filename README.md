@@ -1,4 +1,8 @@
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif"/>
+<div align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif" width="300" height="300"/>
+</div>
+
+
 <br></br>
 <div style="display:flex; justify-content: center;">
   <div style="text-align: center;">
