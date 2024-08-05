@@ -35,9 +35,12 @@
 <div style="justify-content: center;">
  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushiksk&theme=algolia" align="center" alt="Aarushi's GitHub Contribution"/>
 </div>
+ <p align="center">
+  <img  src="https://github.com/aarushiksk/aarushiksk/blob/output/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
-<br></br>
 <br></br>
 ## 🌐 Socials:
 <img src="https://media.tenor.com/x5mCUZFo-9sAAAAj/hello-kitty.gif" align="right" width="190" height="200">
@@ -47,5 +50,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aarushi-1b24211a9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aarushiksk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aarushiksk) 
 
   
-  
+ 
 
