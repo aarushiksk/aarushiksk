@@ -40,7 +40,7 @@
  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushiksk&theme=algolia" align="center" alt="Aarushi's GitHub Contribution"/>
 </div>
  <p align="center">
-  <img  src="https://github.com/aarushiksk/aarushiksk/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/aarushiksk/aarushiksk/blob/output/github-contribution-grid-snake-dark.svg"
     alt="example" />
 </p>
 
